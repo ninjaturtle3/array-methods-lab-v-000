@@ -3,10 +3,9 @@ def using_include(array, element)
     return true
   else
     return false
-    
   end
-  
 end
+
 
 
 
