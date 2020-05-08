@@ -10,8 +10,8 @@ def using_sort(array)
   sorted_array = array.sort
 end
 
-def using_inverse
-
+def using_inverse(array)
+  using_inverse.reverse!
 end
 
 
