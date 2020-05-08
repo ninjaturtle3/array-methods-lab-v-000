@@ -7,11 +7,12 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  sorted_array = array.sort
+  #sorted_array = array.sort
+  array.sort!
 end
 
 def using_reverse(array)
-  array.reverse!
+  array.reverse
 end
 
 
