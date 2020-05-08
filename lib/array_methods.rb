@@ -11,7 +11,7 @@ def using_sort(array)
 end
 
 def using_inverse(array)
-  using_inverse.reverse!
+  array.reverse!
 end
 
 
