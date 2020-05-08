@@ -10,6 +10,9 @@ def using_sort(array)
   sorted_array = array.sort
 end
 
+def using_inverse
+  
+end
 
 
 
